@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  background-color: blueviolet;
+}
+.areas {
+  background-color: red;
+  height: 250px;
+  width: 400px;
+  background-image: url("/image/dfsdf.jpg");
+  background-size: cover;
+  display: flex;
+}

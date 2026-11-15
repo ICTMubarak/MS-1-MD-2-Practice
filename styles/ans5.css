@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+h1 {
+  color: red;
+  text-align: center;
+  margin: 20px;
+  border: 5px solid red;
+  background-color: azure;
+}
+
+p {
+  height: 200px;
+  width: 600px;
+  text-align: center;
+}
+.divs {
+  background-color: blue;
+  place-items: center;
+  background-image: url(/image/dfsdf.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#ck {
+  visibility: hidden;
+}
